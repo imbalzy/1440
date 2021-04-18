@@ -1,0 +1,90 @@
+{
+  "LSVM_A": 160,
+  "LSVM_B": 4,
+  "proximity": [
+    {
+      "rowPosition": 1,
+      "columnPosition": 3,
+      "id": 9,
+      "worldId": 14
+    },
+    {
+      "rowPosition": 1,
+      "columnPosition": 4,
+      "id": 10,
+      "worldId": 14
+    },
+    {
+      "rowPosition": 1,
+      "columnPosition": 1,
+      "id": 7,
+      "worldId": 14
+    },
+    {
+      "rowPosition": 1,
+      "columnPosition": 2,
+      "id": 8,
+      "worldId": 14
+    },
+    {
+      "rowPosition": 1,
+      "columnPosition": 0,
+      "id": 6,
+      "worldId": 14
+    },
+    {
+      "rowPosition": 0,
+      "columnPosition": 3,
+      "id": 3,
+      "worldId": 14
+    },
+    {
+      "rowPosition": 0,
+      "columnPosition": 1,
+      "id": 1,
+      "worldId": 14
+    },
+    {
+      "rowPosition": 0,
+      "columnPosition": 2,
+      "id": 2,
+      "worldId": 14
+    },
+    {
+      "rowPosition": 2,
+      "columnPosition": 3,
+      "id": 15,
+      "worldId": 14
+    },
+    {
+      "rowPosition": 2,
+      "columnPosition": 1,
+      "id": 13,
+      "worldId": 14
+    },
+    {
+      "rowPosition": 2,
+      "columnPosition": 2,
+      "id": 14,
+      "worldId": 14
+    }
+  ],
+  "values": {
+    "1": 14.6636913997394575659427573555149137973785400390625,
+    "2": 11.2847655786638512154240743257105350494384765625,
+    "3": 14.0512704627610727214914732030592858791351318359375,
+    "6": 9.077455715502111388559569604694843292236328125,
+    "7": 13.61613307634116409872149233706295490264892578125,
+    "8": 13.8048982290867510158705044887028634548187255859375,
+    "9": 15.32234646454623572253694874234497547149658203125,
+    "10": 12.322779933519228734439820982515811920166015625,
+    "13": 9.8025727290186157603102401481010019779205322265625,
+    "14": 4.6672206026188547411948093213140964508056640625,
+    "15": 6.864881152611086889692160184495151042938232421875
+  },
+  "setupType": "Regional Bidder Setup",
+  "population": 0,
+  "id": 1,
+  "worldId": 14,
+  "implementation": "org.spectrumauctions.sats.core.model.lsvm.LSVMBidder"
+}

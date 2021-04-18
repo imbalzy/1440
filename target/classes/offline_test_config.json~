@@ -1,0 +1,33 @@
+{
+	"agents": [
+		{
+			"agentClass": "agent.MyLSVM18Agent", 
+			"agentName": "me", 
+		}, 
+		{
+			"agentClass": "agent.MyLSVM18Agent", 
+			"agentName": "me_1", 
+
+		},
+		{
+			"agentClass": "agent.Agent2", 
+			"agentName": "try_2", 
+
+		},
+		{
+			"agentClass": "brown.user.agent.library.Agent2", 
+			"agentName": "try_3", 
+
+		},
+		{
+			"agentClass": "brown.user.agent.library.Tier1LSVM18Agent", 
+			"agentName": "bot_4", 
+
+		},
+		{
+			"agentClass": "brown.user.agent.library.Tier1LSVM18Agent", 
+			"agentName": "bot_5", 
+
+		}
+	]
+}
